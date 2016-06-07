@@ -1,0 +1,35 @@
+{
+    "labId": "ucsm-powertool-102",
+    "title": "Introduction to UCS PowerTool Part II",
+    "slug": "Explore the UCS PowerTool Library, connect to a UCS Manager, Query, Create, Update and Delete UCS objects.",
+    "time": "30",
+    "byod": true,
+    "tags": [{
+        "title": "Data Center"
+    }, {
+        "title": "Coding"
+    }, {
+        "title": "PowerShell"
+    }, {
+        "title": "UCS"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }, {
+        "title": "3.md"
+    }],
+    "related": [{
+        "labId": "ucsm-powertool-101",
+        "title": "SIntroduction to UCS PowerTool Part I"
+    }, {
+        "labId": "ucsm-powertool-103",
+        "title": "Introduction to UCS PowerTool Part III"
+    }],
+    "authors": [{
+        "name": "John McDonough",
+        "email": "jomcdono@cisco.com"
+    }],
+    "active": false
+}
