@@ -1,0 +1,33 @@
+{
+    "labId": "ucsm-python-sdk-101",
+    "title": "Introduction to UCS Python SDK Part I",
+    "slug": "Explore the UCS Python SDK, list the modules, Connect to a UCS Manager, Query Configurations, Policies and Pools.",
+    "time": "30",
+    "byod": true,
+    "tags": [{
+        "title": "Data Center"
+    }, {
+        "title": "Coding"
+    }, {
+        "title": "Python"
+    }, {
+        "title": "UCS"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }],
+    "related": [{
+        "labId": "ucsm-python-sdk-102",
+        "title": "Introduction to UCS Python SDK Part II"
+    }, {
+        "labId": "ucsm-python-sdk-103",
+        "title": "Introduction to UCS Python SDK Part III"
+    }],
+    "authors": [{
+        "name": "Jason Shaw",
+        "email": "jasonsha@cisco.com"
+    }],
+    "active": false
+}

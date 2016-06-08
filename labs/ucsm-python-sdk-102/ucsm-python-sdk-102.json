@@ -1,0 +1,33 @@
+{
+    "labId": "ucsm-python-sdk-102",
+    "title": "Introduction to UCS Python SDK Part II",
+    "slug": "Explore the UCS Python SDK, connect to a UCS Manager, Query, Create, Update and Delete UCS objects.",
+    "time": "30",
+    "byod": true,
+    "tags": [{
+        "title": "Data Center"
+    }, {
+        "title": "Coding"
+    }, {
+        "title": "Python"
+    }, {
+        "title": "UCS"
+    }],
+    "files": [{
+        "title": "1.md"
+    }, {
+        "title": "2.md"
+    }],
+    "related": [{
+        "labId": "ucsm-python-sdk-101",
+        "title": "Introduction to UCS Python SDK Part I"
+    }, {
+        "labId": "ucsm-python-sdk-103",
+        "title": "Introduction to UCS Python SDK Part III"
+    }],
+    "authors": [{
+        "name": "Jason Shaw",
+        "email": "jasonsha@cisco.com"
+    }],
+    "active": false
+}
