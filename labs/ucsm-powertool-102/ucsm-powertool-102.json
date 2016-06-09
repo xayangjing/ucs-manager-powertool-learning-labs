@@ -31,5 +31,5 @@
         "name": "John McDonough",
         "email": "jomcdono@cisco.com"
     }],
-    "active": false
+    "active": true
 }
