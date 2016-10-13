@@ -1,8 +1,9 @@
 {
     "labId": "ucsm-python-sdk-201",
-    "title": "Intermediate UCS Python SDK Part I",
-    "slug": "Dig deeper into the UCS Python SDK, utilize module metadata to determine UCS Object hierarchies.",
+    "title": "Intermediate UCS Python SDK Part II",
+    "slug": "Move to the next level with UCS Python SDK, system configurations, backups, exports and imports",
     "time": "30",
+    "byod": true,
     "tags": [{
         "title": "Data Center"
     }, {
@@ -16,17 +17,16 @@
         "title": "1.md"
     }, {
         "title": "2.md"
+    }, {
+        "title": "3.md"
     }],
     "related": [{
-        "labId": "sample-lab-2",
-        "title": "Sample Lab 2 - Sample lab to link to"
-    }, {
-        "labId": "sample-lab-3",
-        "title": "Sample Lab 3 - Sample lab to link to"
+        "labId": "ucsm-python-sdk-202",
+        "title": "Intermediate to UCS Python SDK Part II"
     }],
     "authors": [{
         "name": "John McDonough",
         "email": "jomcdono@cisco.com"
     }],
-    "active": false
+    "active": true
 }

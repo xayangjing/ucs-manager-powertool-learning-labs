@@ -28,6 +28,9 @@
     "authors": [{
         "name": "Jason Shaw",
         "email": "jasonsha@cisco.com"
+    },{
+        "name": "John McDonough",
+        "email": "jomcdono@cisco.com"
     }],
     "active": true
 }
