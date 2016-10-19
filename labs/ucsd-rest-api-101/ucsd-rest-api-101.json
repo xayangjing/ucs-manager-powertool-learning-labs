@@ -1,14 +1,14 @@
 {
-    "labId": "ucsm-python-sdk-202",
-    "title": "Intermediate UCS Python SDK Part II",
-    "slug": "Dig deeper into the UCS Python SDK, utilize module metadata to determine UCS Object hierarchies.",
+    "labId": "ucsd-rest-api-101",
+    "title": "Introductory UCS Director REST API Part I",
+    "slug": "Learn how to get started with the UCS Director API",
     "time": "30",
     "tags": [{
         "title": "Data Center"
     }, {
         "title": "Coding"
     }, {
-        "title": "UCS"
+        "title": "UCS Director"
     }],
     "files": [{
         "title": "1.md"
@@ -16,8 +16,8 @@
         "title": "2.md"
     }],
     "related": [{
-        "labId": "ucsm-python-sdk-201",
-        "title": "Intermediate to UCS Python SDK Part I"
+        "labId": "ucsd-rest-api-102",
+        "title": "Introductory UCS Director REST API Part II"
     }],
     "authors": [{
         "name": "John McDonough",
