@@ -11,6 +11,8 @@
         "title": "PowerShell"
     }, {
         "title": "UCS"
+    },{
+        "title": "Automation - UCS"
     }],
     "files": [{
         "title": "1.md"
@@ -25,5 +27,5 @@
         "name": "John McDonough",
         "email": "jomcdono@cisco.com"
     }],
-    "active": true
+    "active": false
 }

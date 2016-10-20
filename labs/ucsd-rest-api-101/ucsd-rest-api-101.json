@@ -1,7 +1,7 @@
 {
     "labId": "ucsd-rest-api-101",
     "title": "Introductory UCS Director REST API Part I",
-    "slug": "Learn how to get started with the UCS Director API",
+    "slug": "Learn how to get started with the UCS Director APIs",
     "time": "30",
     "tags": [{
         "title": "Data Center"
@@ -9,6 +9,10 @@
         "title": "Coding"
     }, {
         "title": "UCS Director"
+    }, {
+        "title": "UCS"
+    },{
+        "title": "Automation - UCS Director"
     }],
     "files": [{
         "title": "1.md"
