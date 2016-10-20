@@ -22,10 +22,6 @@
     }, {
         "title": "3.md"
     }],
-    "related": [{
-        "labId": "ucsm-powertool-202",
-        "title": "Intermmediate UCS PowerTool Part II"
-    }],
     "authors": [{
         "name": "John McDonough",
         "email": "jomcdono@cisco.com"

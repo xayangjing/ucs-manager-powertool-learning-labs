@@ -22,10 +22,6 @@
     }, {
         "title": "3.md"
     }],
-    "related": [{
-        "labId": "ucsm-python-sdk-202",
-        "title": "Intermediate to UCS Python SDK Part II"
-    }],
     "authors": [{
         "name": "John McDonough",
         "email": "jomcdono@cisco.com"
