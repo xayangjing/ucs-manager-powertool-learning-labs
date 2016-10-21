@@ -1,6 +1,6 @@
 {
-    "labId": "ucsd-rest-api-101",
-    "title": "Introductory UCS Director REST API Part I",
+    "labId": "ucsd-rest-api-103",
+    "title": "Introductory UCS Director REST API Part III",
     "slug": "Learn how to get started with the UCS Director APIs",
     "time": "30",
     "byod": true,
@@ -21,11 +21,11 @@
         "title": "2.md"
     }],
     "related": [{
+        "labId": "ucsd-rest-api-101",
+        "title": "Introductory UCS Director REST API Part I"
+    },{
         "labId": "ucsd-rest-api-102",
         "title": "Introductory UCS Director REST API Part II"
-    },{
-        "labId": "ucsd-rest-api-103",
-        "title": "Introductory UCS Director REST API Part III"
     }],
     "authors": [{
         "name": "John McDonough",

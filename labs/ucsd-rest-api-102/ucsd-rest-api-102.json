@@ -23,6 +23,9 @@
     "related": [{
         "labId": "ucsd-rest-api-101",
         "title": "Introductory UCS Director REST API Part I"
+    },{
+        "labId": "ucsd-rest-api-103",
+        "title": "Introductory UCS Director REST API Part III"
     }],
     "authors": [{
         "name": "John McDonough",
