@@ -1,7 +1,7 @@
 {
     "labId": "ucsd-rest-api-101",
-    "title": "Introductory UCS Director REST API Part I",
-    "slug": "Learn how to get started with the UCS Director APIs",
+    "title": "Introductory UCS Director REST API, Custom Tasks and Workflow Creation Part I",
+    "slug": "Learn how to get started with the UCS Director APIs, Custom Tasks, and workflow Creation",
     "time": "30",
     "byod": true,
     "tags": [{
