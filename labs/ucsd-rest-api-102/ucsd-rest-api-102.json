@@ -7,12 +7,10 @@
     "tags": [{
         "title": "Data Center"
     }, {
-        "title": "Coding"
-    }, {
-        "title": "UCS Director"
+        "title": "REST"
     }, {
         "title": "UCS"
-    },{
+    }, {
         "title": "Automation - UCS Director"
     }],
     "files": [{
